@@ -1,0 +1,90 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    transition: 500ms;
+}
+
+.forma h1 {
+    width: 282px;
+    height: 90px;
+    border: 1px solid #007FFF;
+    border-radius: 10px;
+    margin: 25px;
+    padding: 20px;
+}
+
+.forma {
+    width: 1000px;
+    margin: 0 auto;
+}
+
+.aww {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 59.42px;
+    text-align: center;
+}
+
+input {
+    border: 2px solid #007FFF;
+    width: 321px;
+    height: 42px;
+    margin-top: 22px;
+    margin-left: 262px;
+    margin-bottom: 42px;
+    border-radius: 10px;
+    background-color: transparent;
+    padding-left: 20px;
+}
+
+input:active {
+    border: 2px solid #007FFF;
+    width: 350px;
+    height: 50px;
+}
+
+button {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 21.83px;
+    text-align: center;
+    color: #FFFFFF;
+    cursor: pointer;
+    border: 0px;
+    background: #0071E3;
+    width: 155px;
+    height: 42px;
+    border-radius: 10px;
+}
+
+button:active {
+    width: 200px;
+    height: 80px;
+}
+
+.p {
+    position: relative;
+    bottom: 60px;
+    left: 50px;
+}
+
+.d {
+    position: relative;
+    bottom: 110px;
+    left: 270px;
+}
+
+.p_text_netu {
+    display: none;
+}
+
+.d_netu {
+    display: none;
+}
+
+.p_netu {
+    display: none;
+}
